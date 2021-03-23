@@ -12,7 +12,9 @@ The monospaced sub-family is available for free and is also on GoogleFonts. If y
 
 
 ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC1.png "Azeret")
-![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC2.png "Azeret") ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC3.png "Azeret") ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC4.png "Azeret")
+Azeret             |  Azeret|  Azeret
+:-------------------------:|:------------------------:|:------------------------:
+![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC2.png "Azeret") | ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC3.png "Azeret") | ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC4.png "Azeret")
 
 
 #### Azeret Family contains:
