@@ -10,7 +10,7 @@ Azeret is a sans-serif typeface with a mono-linear character. Don't go looking f
 
 The monospaced sub-family is available for free and is also on GoogleFonts. If you would like to explore Azeret more you can do it on our micro-site which we developed with Martin Ehrlich.
 
-
+Azeret  |  Azeret  |  Azeret   
 ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC1.png "Azeret")
 :-------------------------:|:------------------------:|:------------------------:
 ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC2.png "Azeret") | ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC3.png "Azeret") | ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC4.png "Azeret")
@@ -27,7 +27,7 @@ The monospaced sub-family is available for free and is also on GoogleFonts. If y
 * Black / Black Italic
 
 ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC13.png "Azeret")
-
+Azeret  |  Azeret  |  Azeret   
 :-------------------------:|:------------------------:|:------------------------:
 ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC5.png "Azeret") | ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC6.png "Azeret") | ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC7.png "Azeret")
 
@@ -42,7 +42,7 @@ To contribute to the project contact [Displaay](http://displaay.net/).
 Copyright (c) 2021, Displaay (http://displaay.net/ | xyz@displaay.net)
 
 Licensed under the [*SIL Open Font License, 1.1*](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
-
+Azeret  |  Azeret  |  Azeret   
 :-------------------------:|:------------------------:|:------------------------:
 ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC8.png "Azeret") | ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC9.png "Azeret") | ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC10.png "Azeret")
 
@@ -93,6 +93,6 @@ If you make modifications be sure to add your name (N), email (E), web-address
 **E:** zuzana@renegadefonts.com 
 **W:** http://renegadefonts.com
 **D:** Font Production
-
+Azeret  |  Azeret  
 :-------------------------:|:------------------------:
 ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC11.png "Azeret") | ![Sample of Azeret Family.](documentation/DP_Azeret_MONO_SOC12.png "Azeret")
