@@ -28,10 +28,6 @@ name = "Variable Font Origin";
 value = "8A7F20D3-7375-4A55-82DC-0ADBCD41717D";
 },
 {
-name = versionString;
-value = "Version 1.000; Glyphs 3.0.3, build 3074";
-},
-{
 name = license;
 value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
 },
@@ -54329,5 +54325,5 @@ tH = "126";
 GSDontShowVersionAlert = 1;
 };
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
