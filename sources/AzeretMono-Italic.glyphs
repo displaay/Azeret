@@ -54239,6 +54239,17 @@ instanceInterpolations = {
 "A3B76219-B495-4A65-93FB-16A8FAD49F3F" = 0.16667;
 };
 isItalic = 1;
+linkStyle = ExtraLight;
+name = "ExtraLight Italic";
+weightClass = ExtraLight;
+},
+{
+interpolationWeight = 300;
+instanceInterpolations = {
+"15963509-F4CC-4A33-865A-02712DFE1B04" = 0.66667;
+"A3B76219-B495-4A65-93FB-16A8FAD49F3F" = 0.33333;
+};
+isItalic = 1;
 linkStyle = Light;
 name = "Light Italic";
 weightClass = Light;
@@ -54347,5 +54358,5 @@ tH = "126";
 GSDontShowVersionAlert = 1;
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }

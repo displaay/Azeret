@@ -54221,6 +54221,15 @@ instanceInterpolations = {
 "8628BAC4-B70C-44D0-A849-1AF4E6A86A6D" = 0.16667;
 "8A7F20D3-7375-4A55-82DC-0ADBCD41717D" = 0.83333;
 };
+name = ExtraLight;
+weightClass = ExtraLight;
+},
+{
+interpolationWeight = 300;
+instanceInterpolations = {
+"8628BAC4-B70C-44D0-A849-1AF4E6A86A6D" = 0.33333;
+"8A7F20D3-7375-4A55-82DC-0ADBCD41717D" = 0.66667;
+};
 name = Light;
 weightClass = Light;
 },
@@ -54325,5 +54334,5 @@ tH = "126";
 GSDontShowVersionAlert = 1;
 };
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
